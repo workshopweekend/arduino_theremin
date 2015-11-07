@@ -1,3 +1,8 @@
+// Arduino Theremin!
+// by Smitha Pisupati
+// Last update: November 2015
+// arduino_theremin_final.ino
+
 /*************************************************
  * Note Constants Start
  *************************************************/

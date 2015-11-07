@@ -1,3 +1,8 @@
+// Arduino Theremin!
+// by Smitha Pisupati
+// Last update: November 2015
+// arduino_theremin_one_led.ino
+
 int trigger = 4;
 int echo = 5;
 int led = 13;
