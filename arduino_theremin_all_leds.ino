@@ -3,8 +3,9 @@
 // Last update: November 2015
 // arduino_theremin_all_led.ino
 
-int trigger = 3;
-int echo = 4;
+int trigger = 4;
+int echo = 5;
+
 int led1 = 13;
 int led2 = 12;
 int led3 = 11;
